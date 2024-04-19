@@ -52,3 +52,10 @@ Made ansible playbooks which would be used to build the docker images with the h
 
 Will make ansible push the images onto docker hub which then our docker host server would pull the images from our docker hub and then create a container out of it whenever there's a new code commit on our GitHub repository 
 
+Jenkins Job Overview
+![image](https://github.com/Sehindemi/hello-world-CICD-Project/assets/97199481/eb01bb83-4a0d-4c5e-8d62-419942bbfef2)
+
+RegApp Deployment 
+![image](https://github.com/Sehindemi/hello-world-CICD-Project/assets/97199481/f6900beb-b824-463f-b523-8559497bd93f)
+
+
