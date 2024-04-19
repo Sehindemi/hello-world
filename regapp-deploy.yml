@@ -11,7 +11,7 @@ spec:
     matchLabels:
       app: regapp
 
-  template:
+  template: 
     metadata:
       labels:
         app: regapp
